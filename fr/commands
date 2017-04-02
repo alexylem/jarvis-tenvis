@@ -1,0 +1,2 @@
+*DESACTIVE*SURVEILLANCE*==say "Je désactive la surveillance" && tenvis_settings_led 0 && tenvis_settings_alarm 0
+*ACTIVE*SURVEILLANCE*==say "J'active la surveillance" && tenvis_settings_led 2 && tenvis_settings_alarm 2

@@ -1,0 +1,2 @@
+*TURN*OFF*MONITORING*==say "Turning off monitoring" && tenvis_settings_led 0 && tenvis_settings_alarm 0
+*TURN*ON*MONITORING*==say "Turning on monitoring" && tenvis_settings_led 2 && tenvis_settings_alarm 2
